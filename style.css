@@ -11,8 +11,11 @@ table, th, td {
     border-collapse: collapse;
     border: 5px solid black;
 }
+
 .label {
     color: red;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .black {
